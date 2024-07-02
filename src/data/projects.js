@@ -3,49 +3,56 @@
 
 const projects = [
   {
-    id: 1,
+    id:1,
+    title: "Save The Earth",
+    category: "UI/UX Design",
+    img: require("@/assets/images/save-the-earth.png"),
+    link: "https://https://fed-ca2-nha.netlify.app/"
+  },
+  {
+    id: 2,
     title: "Online-Shop",
     category: "NodeJs",
     img: require("@/assets/images/online-shop-nodejs.png"),
 	link: "https://online-shop-nodejs.herokuapp.com/"
   },
   {
-    id: 2,
+    id: 3,
     title: "Tic-Tac-Toe",
     category: "React",
     img: require("@/assets/images/tic-tac-toe.png"),
 	link: "https://tic-tac-toe-nha.netlify.app/"
   },
   {
-    id: 3,
+    id: 4,
     title: "Invoice App",
     category: "VueJs",
     img: require("@/assets/images/invoice-vue.png"),
 	link: "https://invoice-vue3-app.netlify.app/"
   },
   {
-    id: 4,
+    id: 5,
     title: "Disney-Clone Design",
     category: "UI/UX Design",
     img: require("@/assets/images/disney-clone.png"),
 	link: "https://disney-clone-tailwindvue-exmaple.netlify.app/"
   },
   {
-    id: 5,
+    id: 6,
     title: "Movie App",
     category: "Laravel",
     img: require("@/assets/images/movie-app.png"),
 	link: "https://nha-movieapp.herokuapp.com/"
   },
   {
-    id: 6,
+    id: 7,
     title: "Github Job",
     category: "React",
     img: require("@/assets/images/github-job.png"),
 	link: "https://github-jobs-ruby-kappa.vercel.app/"
   },
   {
-    id: 7,
+    id: 8,
     title: "Redux Shopping Cart",
     category: "React",
     img: require("@/assets/images/shopping-cart.png"),

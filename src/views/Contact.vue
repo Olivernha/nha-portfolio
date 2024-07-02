@@ -13,7 +13,7 @@ export default {
 			contacts: [
 				{
 					id: 1,
-					name: '16th Street Lanmadaw ,Yangon (Myanmar)',
+					name: '96 Commonwealth Crescent, Singapore 140096',
 					icon: 'map-pin',
 				},
 				{
@@ -23,7 +23,7 @@ export default {
 				},
 				{
 					id: 3,
-					name: '+95 9 792 331 753',
+					name: '+65 8935 0559',
 					icon: 'phone',
 				},
 			],

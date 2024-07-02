@@ -5,11 +5,11 @@ export default {
       bios: [
         {
           id: 1,
-          bio: "I am currently a third year student at Yangon Technological University and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into backend learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+          bio: "I am currently a second year student at Singapore Poly and pursuing my Diploma in Information Technology from here. I am a self taught Full Stack Web Developer, currently diving deeper into backend learning and security coding. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
         },
         {
           id: 2,
-          bio: "I like dabbling in various parts of frontend and backend development and like to learn about new technologies, read technical articles or simply play games and listen to music in my free time.",
+          bio: "I like dabbling in various parts of frontend and backend development and like to learn about new technologies, read technical articles or simply play games and listen to music in my free time.Currently,I am trying to find internships to gain more experience and learn more about the industry. I am also looking for opportunities to work on projects that will help me learn more about the industry and improve my skills.",
         },
       ],
     };
