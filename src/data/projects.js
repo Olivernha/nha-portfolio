@@ -7,7 +7,7 @@ const projects = [
     title: "Save The Earth",
     category: "UI/UX Design",
     img: require("@/assets/images/save-the-earth.png"),
-    link: "https://https://fed-ca2-nha.netlify.app/"
+    link: "https://fed-ca2-nha.netlify.app/"
   },
   {
     id: 2,
